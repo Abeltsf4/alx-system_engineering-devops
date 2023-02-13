@@ -8,3 +8,4 @@
 7 creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 8 writes into the file ls_cwd_content the result of the command ls -la
 9 duplicates the last line of the file iacta
+10 deletes all the regular files with a .js extension
